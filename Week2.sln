@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2", "Week2\Week2.csproj", "{DBF3A660-8B52-412C-80F2-3BA3A356163F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserGenderValidation", "UserAgeValidation\UserGenderValidation.csproj", "{D6A01B4E-611E-4F87-ABAD-A2B53389E3A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAgeValidation1", "UserAgeValidation1\UserAgeValidation1.csproj", "{B9A3A534-967C-4B58-AD97-C804FB963073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF3A660-8B52-412C-80F2-3BA3A356163F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF3A660-8B52-412C-80F2-3BA3A356163F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF3A660-8B52-412C-80F2-3BA3A356163F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF3A660-8B52-412C-80F2-3BA3A356163F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A01B4E-611E-4F87-ABAD-A2B53389E3A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A01B4E-611E-4F87-ABAD-A2B53389E3A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A01B4E-611E-4F87-ABAD-A2B53389E3A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A01B4E-611E-4F87-ABAD-A2B53389E3A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A3A534-967C-4B58-AD97-C804FB963073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A3A534-967C-4B58-AD97-C804FB963073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A3A534-967C-4B58-AD97-C804FB963073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A3A534-967C-4B58-AD97-C804FB963073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
